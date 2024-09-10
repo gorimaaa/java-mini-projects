@@ -1,6 +1,6 @@
 # Producer-Consumer
-This mini project is a producer-consumer model with a GUI, we choose a number of producers and consumers with static variable in the main then the iteration number  
-the GUI displays the producers consuming the consumers.
+This mini project is a producer-consumer model with a GUI, we choose a number of producers and consumers with static variable in the **Main.java** file and also the iteration number    
+the GUI displays with text lines how the producer-consumer is working (which consumer takes which producer and some additional informations)
 
 ## Build and Execute instructions
 This mini project is used with **Eclipse**, the Java version is **JavaSE-1.6**  
